@@ -7,7 +7,7 @@
 //  Description :   Check whether input is even or odd
 //  Input :         int
 //  Output :        bool
-//  Author :        Prajwal Sanjay Pansare
+//  Author :        Tejas Sunil Ahirrao
 //  Date :          25/10/2025
 //
 //////////////////////////////////////////////////////////////
