@@ -6,7 +6,7 @@
 //  Description :   print even number from double value of input
 //  Input :         int
 //  Output :        void, string
-//  Author :        Prajwal Sanjay Pansare
+//  Author :        Tejas Sunil Ahirrao
 //  Date :          25/10/2025
 //
 //////////////////////////////////////////////////////////////
