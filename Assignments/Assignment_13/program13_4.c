@@ -6,7 +6,7 @@
 //  Description :   To sum of all natural number to N
 //  Input :         int
 //  Output :        int
-//  Author :        Prajwal Sanjay Pansare
+//  Author :        Tejas Sunil Ahirrao
 //  Date :          27/10/2025
 //
 //////////////////////////////////////////////////////////////
