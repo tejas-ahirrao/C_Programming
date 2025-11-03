@@ -6,7 +6,7 @@
 //  Description :   To Display all Odd number to N
 //  Input :         int
 //  Output :        void
-//  Author :        Prajwal Sanjay Pansare
+//  Author :        Tejas Sunil Ahirrao
 //  Date :          27/10/2025
 //
 //////////////////////////////////////////////////////////////
