@@ -10,7 +10,7 @@ typedef int BOOL;
 //  Description :   To check whether number contains zero or not
 //  Input :         int
 //  Output :        BOOL
-//  Author :        Prajwal Sanjay Pansare
+//  Author :        Tejas Sunil Ahirrao
 //  Date :          27/10/2025
 //
 //////////////////////////////////////////////////////////////
