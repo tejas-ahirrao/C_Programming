@@ -6,7 +6,7 @@
 //  Description :   print even factors of number
 //  Input :         int
 //  Output :        string
-//  Author :        Prajwal Sanjay Pansare
+//  Author :        Tejas Sunil Ahirrao
 //  Date :          25/10/2025
 //
 //////////////////////////////////////////////////////////////
