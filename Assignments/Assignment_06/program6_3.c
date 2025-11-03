@@ -7,7 +7,7 @@
 //  Description :   To check two values are equal or not 
 //  Input :         int, int
 //  Output :        bool
-//  Author :        Prajwal Sanjay Pansare
+//  Author :        Tejas Sunil Ahirrao
 //  Date :          26/10/2025
 //
 //////////////////////////////////////////////////////////////
