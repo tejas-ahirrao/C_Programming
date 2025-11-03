@@ -76,10 +76,10 @@ C_PROGRAMMING/
 ---
 
 ## Author
-**Prajwal Pansare**  
+**Tejas Ahirrao**  
 📍 Computer Engineering Student  
-🔗 [GitHub Profile](https://github.com/pansareprajwal)
+🔗 [GitHub Profile](https://github.com/tejas-ahirrao)
 
 ---
 
-> *This repository is for educational and self-improvement purposes. All programs are written and maintained by Prajwal Pansare.*
+> *This repository is for educational and self-improvement purposes. All programs are written and maintained by Tejas Ahirrao.*
