@@ -6,7 +6,7 @@
 //  Description :   To display total sum of even factors of number
 //  Input :         int
 //  Output :        string
-//  Author :        Prajwal Sanjay Pansare
+//  Author :        Tejas Sunil Ahirrao
 //  Date :          27/10/2025
 //
 //////////////////////////////////////////////////////////////
