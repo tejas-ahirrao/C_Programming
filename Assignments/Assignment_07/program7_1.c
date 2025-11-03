@@ -6,7 +6,7 @@
 //  Description :   To print pattern of $ *
 //  Input :         int
 //  Output :        void
-//  Author :        Prajwal Sanjay Pansare
+//  Author :        Tejas Sunil Ahirrao
 //  Date :          26/10/2025
 //
 //////////////////////////////////////////////////////////////
