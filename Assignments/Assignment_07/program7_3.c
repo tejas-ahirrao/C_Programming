@@ -6,7 +6,7 @@
 //  Description :   To print numberline of the input number
 //  Input :         int
 //  Output :        void
-//  Author :        Prajwal Sanjay Pansare
+//  Author :        Tejas Sunil Ahirrao
 //  Date :          26/10/2025
 //
 //////////////////////////////////////////////////////////////
