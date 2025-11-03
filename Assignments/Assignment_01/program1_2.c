@@ -6,7 +6,7 @@
 //  Description :   It is used to Display "Marvellous" 5 times
 //  Input :         void
 //  Output :        string
-//  Author :        Prajwal Sanjay Pansare
+//  Author :        Tejas Sunil Ahirrao
 //  Date :          25/10/2025
 //
 //////////////////////////////////////////////////////////////
