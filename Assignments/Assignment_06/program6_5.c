@@ -6,7 +6,7 @@
 //  Description :   To get percentage for marks 
 //  Input :         int, int
 //  Output :        float
-//  Author :        Prajwal Sanjay Pansare
+//  Author :        Tejas Sunil Ahirrao
 //  Date :          26/10/2025
 //
 //////////////////////////////////////////////////////////////
