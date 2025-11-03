@@ -6,7 +6,7 @@
 //  Description :   To get area of the Rectangle
 //  Input :         float, float
 //  Output :        float
-//  Author :        Prajwal Sanjay Pansare
+//  Author :        Tejas Sunil Ahirrao
 //  Date :          27/10/2025
 //
 //////////////////////////////////////////////////////////////
