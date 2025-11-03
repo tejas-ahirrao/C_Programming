@@ -6,7 +6,7 @@
 //  Description :   It is used to perform Division
 //  Input :         integer,integer
 //  Output :        integer
-//  Author :        Prajwal Sanjay Pansare
+//  Author :        Tejas Sunil Ahirrao
 //  Date :          25/10/2025
 //
 //////////////////////////////////////////////////////////////
